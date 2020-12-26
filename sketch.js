@@ -23,7 +23,6 @@ function setup() {
 	Engine.run(engine);
   
 }
-//test
 
 function draw() {
   rectMode(CENTER);
